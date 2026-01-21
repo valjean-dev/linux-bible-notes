@@ -1,1 +1,2 @@
-# linux-bible-notes
+Book:   Linux Bible
+Author: Christopher Negus
